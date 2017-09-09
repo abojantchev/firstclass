@@ -16,7 +16,7 @@ public:
             }
             printf("\n");
         }
-        printf("  ");
+        printf(" dbojantchev changed this code ");
 
         for(int j=0; j <= 7; j++){
             printf("%d ", j);
