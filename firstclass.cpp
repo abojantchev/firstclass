@@ -6,7 +6,8 @@ public:
     char board[8][8];
 
     Board();
-    /* Fake change */
+    
+
     void printBoard(){
         for(int i=0; i < 8; i++){
             printf("%d ", i);
